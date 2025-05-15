@@ -6,6 +6,7 @@ A modular, Figma-style Bot Designer UI built with React, Zustand, and Tailwind C
 
 ![Design Screenshot](src/assets/screenshots/1.png)
 ![Design Screenshot](src/assets/screenshots/2.png)
+![Design Screenshot](src/assets/screenshots/3.png)
 
 
 ## Usage & Interactivity
