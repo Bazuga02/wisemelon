@@ -5,8 +5,8 @@ A modular, Figma-style Bot Designer UI built with React, Zustand, and Tailwind C
 > **Note:** This is a sample project to showcase frontend development skills and match a pixel-perfect UI of a phone component, based on a provided design reference. Some extra functionalities and interactivity have also been added for demonstration purposes.
 
 ![Design Screenshot](src/assets/screenshots/1.png)
-![Design Screenshot](src/assets/screenshots/2.png)
-![Design Screenshot](src/assets/screenshots/3.png)
+<img src="src/assets/screenshots/2.png" alt="Design Screenshot" width="400"/>
+<img src="src/assets/screenshots/3.png" alt="Design Screenshot" width="400"/>
 
 ## Usage & Interactivity
 
