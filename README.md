@@ -55,7 +55,7 @@ A modular, Figma-style Bot Designer UI built with React, Zustand, and Tailwind C
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone "https://github.com/Bazuga02/wisemelon"
    cd bot-designer
    ```
 2. **Install dependencies:**
