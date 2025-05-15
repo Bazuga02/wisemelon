@@ -1,6 +1,22 @@
 # Wisemelon Bot Designer
-
 A modular, Figma-style Bot Designer UI built with React, Zustand, and Tailwind CSS. Design and customize conversational UIs with a live phone mockup, drag-and-drop, and a modern properties panel.
+
+
+> **Note:** This is a sample project to showcase frontend development skills and match a pixel-perfect UI of a phone component, based on a provided design reference. Some extra functionalities and interactivity have also been added for demonstration purposes.
+
+![Design Screenshot](src/assets/screenshots/1.png)
+![Design Screenshot](src/assets/screenshots/2.png)
+
+
+## Usage & Interactivity
+
+- **To edit or see properties:** Click on any element (header, updates/cards, recent messages, status) in the phone preview. The right sidebar will update with dynamic properties for the selected component.
+- **Recent and Status components:** These are vertically draggable. You can reorder them by dragging the handle on the left.
+- **Button elements:** When added, they appear horizontally in the Updates section. If there are many, you can scroll horizontally to see all buttons and cards.
+- **Remove elements:** Most elements (except the header) can be removed via the properties panel.
+- **Bottom navigation:** The bottom nav bar is horizontally draggable and reorderable.
+
+---
 
 ## Features
 
