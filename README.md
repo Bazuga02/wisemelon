@@ -1,13 +1,12 @@
 # Wisemelon Bot Designer
-A modular, Figma-style Bot Designer UI built with React, Zustand, and Tailwind CSS. Design and customize conversational UIs with a live phone mockup, drag-and-drop, and a modern properties panel.
 
+A modular, Figma-style Bot Designer UI built with React, Zustand, and Tailwind CSS. Design and customize conversational UIs with a live phone mockup, drag-and-drop, and a modern properties panel.
 
 > **Note:** This is a sample project to showcase frontend development skills and match a pixel-perfect UI of a phone component, based on a provided design reference. Some extra functionalities and interactivity have also been added for demonstration purposes.
 
 ![Design Screenshot](src/assets/screenshots/1.png)
 ![Design Screenshot](src/assets/screenshots/2.png)
 ![Design Screenshot](src/assets/screenshots/3.png)
-
 
 ## Usage & Interactivity
 
@@ -69,9 +68,9 @@ A modular, Figma-style Bot Designer UI built with React, Zustand, and Tailwind C
 ### Running Locally
 
 ```bash
-npm start
+npm run dev
 # or
-yarn start
+yarn dev
 ```
 
 - The app will be available at `http://localhost:3000` by default.
